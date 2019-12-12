@@ -11,7 +11,7 @@ class A
 	
 	public A()
 	{
-	 System.out.println("In costructor");
+	 System.out.println("In Main costructor");
 		
 	}
 }
