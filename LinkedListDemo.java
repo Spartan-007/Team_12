@@ -9,11 +9,11 @@ public class LinkedListDemo {
 	
 	public static void main(String[] args) {
 		LinkedList<String> numberString = new LinkedList<>();
-		numberString.addFirst("One");
-		numberString.addLast("Five");
-		numberString.addLast("Two");
-		numberString.addFirst("Four");
-		numberString.add("Three");
+		numberString.addFirst("Mayur");
+		numberString.addLast("Harsh");
+		numberString.addLast("Nikita");
+		numberString.addFirst("ganya");
+		numberString.add("Nasir bhai");
 
 		System.out.println("First Element :: "+numberString.getFirst());
 		System.out.println("Last Element :: "+numberString.getLast());

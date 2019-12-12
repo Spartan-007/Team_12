@@ -14,6 +14,13 @@ class A
 	 System.out.println("In costructor");
 		
 	}
+
+	
+	public void add(int a,int b){
+	
+	int c= a+b;
+	System.out.println(c);
+	}
 }
 class B
 {

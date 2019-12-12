@@ -10,9 +10,9 @@ public class ArrayListDemo {
 		ArrayList<String> countryList = new ArrayList<>();
 		
 		countryList.add("India");
-		countryList.add("China");
-		countryList.add("Pakistan");
-		countryList.add("US");
+		countryList.add("UAE");
+		countryList.add("Bangladesh");
+		countryList.add("JAPAN");
 		
 		int size = countryList.size();
 		System.out.println("Size of the list is : "+size);
@@ -46,7 +46,7 @@ public class ArrayListDemo {
 		System.out.println("Remove by object :: "+isRemoved);*/
 		
 		//updating the arraylist
-		countryList.set(0, "ABCD");
+		countryList.set(0, "Bhutan");
 		countryList.remove("India");
 		
 		boolean isIndiaAvailable = countryList.contains("India");
