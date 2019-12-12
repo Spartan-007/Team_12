@@ -10,7 +10,7 @@ public class ArrayListDemo {
 		ArrayList<String> countryList = new ArrayList<>();
 		
 		countryList.add("India");
-		countryList.add("China");
+		countryList.add("Australia");
 		countryList.add("Pakistan");
 		countryList.add("US");
 		
