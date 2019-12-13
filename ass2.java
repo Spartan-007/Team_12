@@ -4,7 +4,7 @@ class A
 	 
 	public static void abc()
 	{
-		int a=500;
+		int a=1000;
 	
 	System.out.println(a);
 	}
