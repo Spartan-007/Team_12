@@ -12,20 +12,6 @@ class A
 	public A()
 	{
 
-
-heyyy this is changr
-
-
-
-
-
-
-
-C
-D
-D
-
-C
 	 System.out.println("In costructor");
 		
 	}
@@ -35,7 +21,8 @@ class B
 	public static void bbc()
 	{
 		System.out.println("Static block in B");
-		System.Out.println("Nishant Here");
+		System.out.println("Nishant Here");
+		System.out.println("Again Nishant.....");
 		}
 }
 
