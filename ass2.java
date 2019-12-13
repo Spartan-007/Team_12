@@ -4,13 +4,28 @@ class A
 	 
 	public static void abc()
 	{
-		int a=10;
+		int a=500;
 	
 	System.out.println(a);
 	}
 	
 	public A()
 	{
+
+
+heyyy this is changr
+
+
+
+
+
+
+
+C
+D
+D
+
+C
 	 System.out.println("In costructor");
 		
 	}
