@@ -20,7 +20,8 @@ class B
 	public static void bbc()
 	{
 		System.out.println("Static block in B");
-	}
+		System.Out.println("Nishant Here");
+		}
 }
 
 public class ass2 {
