@@ -13,7 +13,7 @@ public class ArrayListDemo {
 		countryList.add("India");
 		countryList.add("Australia");
 		countryList.add("Pakistan");
-		countryList.add("US");
+		countryList.add("Zimbombe");
 		
 		int size = countryList.size();
 		System.out.println("Size of the list is : "+size);
