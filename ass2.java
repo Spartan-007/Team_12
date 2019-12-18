@@ -4,7 +4,7 @@ class A
 	 
 	public static void abc()
 	{
-		int a=500;
+		int a=80000;
 	
 	System.out.println(a);
 	}
@@ -12,20 +12,6 @@ class A
 	public A()
 	{
 
-
-heyyy this is changr
-
-
-
-
-
-
-
-C
-D
-D
-
-C
 	 System.out.println("In costructor");
 		
 	}
@@ -35,7 +21,9 @@ class B
 	public static void bbc()
 	{
 		System.out.println("Static block in B");
-	}
+		System.out.println("Nishant Here");
+		System.out.println("Again Nishant.....");
+		}
 }
 
 public class ass2 {
